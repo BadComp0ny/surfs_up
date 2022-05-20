@@ -3,11 +3,11 @@ The goal of this project is to review weather records to determine if the identi
 
 ## Results
 As part of this review it was decided to pull all of the weather data recorded in Oahu for the months of June and December.  June had been determined by the end user as the peak time when these services may be utilized and December representing the typical low.  
-June Results
-![Image 1](/June.png)
 
-December Results
-![Image 2](/Dec.png)
+June Results                                                                 December Results
+
+![Image 1](/June.png)                                                        ![Image 2](/Dec.png)
+
 
 In comparison of the weather data for these two months the following was identified.
 1.	The average temperature difference at this location across these two months was less than 4 degrees Fahrenheit.
